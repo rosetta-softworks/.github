@@ -1,5 +1,5 @@
 # rosetta softworks
-## independent software developer
+**independent software developer**
 
 **active projects:**
 - rosetta sync daemon (RSD) : project management and two way sync provider for roblox studio
