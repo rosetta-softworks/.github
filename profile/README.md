@@ -1,12 +1,7 @@
-## Hi there 👋
+# rosetta softworks
+rosetta softworks is an independent, multi-specialist software house focusing mainly on desktop facing applications.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## active projects
+**rosetta ui:** in-house C++ interface framework
+**rosetta replay:** screen capturing/recording software with MCP integration for agent use, companion software with **rosetta desktop control.**
+**rosetta desktop control:** agentic desktop control MCP server providing secure computer use capabilities for agentic programming software. used in tandem with **rosetta replay.**
